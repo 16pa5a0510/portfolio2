@@ -1,0 +1,26 @@
+.content {
+flex-wrap : wrap;
+display : flex;
+flex : 100%;
+background-color : green;
+}
+.header img {
+background: #555;
+}
+
+
+body {
+background-color : lightblue;
+}
+.after {
+padding-top : 30px;
+padding-left : 60px;
+padding-bottom : 30px;
+padding-right : 40px;
+background-color : pink;
+border-radius : 40px;
+width : 260px;
+height : 432px;
+float : left;
+margin : 0.2cm;
+}
